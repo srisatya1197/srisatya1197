@@ -1,3 +1,4 @@
+<img src="Readme.gif" >
 ### Hi there 👋
 
 <!--
